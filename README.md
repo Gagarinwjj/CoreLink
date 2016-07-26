@@ -19,6 +19,9 @@
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
  - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
 
+### Android 屏幕适配
+ - [Android-屏幕适配全攻略](http://www.jianshu.com/p/6319e43572fa)
+
 ### Android Hybrid 技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
  - [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
